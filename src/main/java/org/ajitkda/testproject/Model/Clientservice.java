@@ -10,7 +10,6 @@ public class Clientservice {
     }
 
     // todo new function to extract ID FROM JWT
-
     public void ExtractIdFromJwt(String jwt){
 
         // extract ID
@@ -19,5 +18,14 @@ public class Clientservice {
 
     public void login(){
         // login service
+    }
+
+
+    // my final function
+
+
+    public void  LambdaFunctionTest(){
+
+        // some random code
     }
 }
