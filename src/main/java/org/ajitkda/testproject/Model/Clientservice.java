@@ -13,4 +13,18 @@ public class Clientservice {
     public void login(){
         // login service
     }
+
+
+    public void extractfunction(){
+        // login service
+    }
+
+
+    public void extractfunction2(){
+        // login service
+    }
+
+    public void extractfunction4(){
+        // login service
+    }
 }
