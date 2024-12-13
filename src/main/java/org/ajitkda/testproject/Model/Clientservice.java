@@ -8,4 +8,9 @@ public class Clientservice {
 
         // sign up process
     }
+
+
+    public void login(){
+        // login service
+    }
 }
